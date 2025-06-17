@@ -16,7 +16,8 @@ Library that makes usage of [surface](https://dim1xs.github.io/site-hl2gmedwiki/
 
 ## 📜Examples
 ### Paint a simple rounded box, in the left upper corner of the screen.
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/1G1Yyhg5/image.png" alt="image" border="0"></a>
+<img src="https://i.ibb.co/1G1Yyhg5/image.png">
+
 ```lua
 hook.add( "HudViewportPaint", "PaintLibTest", function()
     local tab = 
